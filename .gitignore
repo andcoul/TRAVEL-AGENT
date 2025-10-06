@@ -1,4 +1,4 @@
 venv/
-Travel_Agent.egg-info/z
+Travel_Agent.egg-info/
 logs/
 .env
