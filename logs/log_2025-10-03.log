@@ -1,0 +1,6 @@
+2025-10-03 07:03:40,531 - INFO - Intilaized TravelPlanner instance
+2025-10-03 07:03:40,559 - INFO - City set sucesfully
+2025-10-03 07:03:40,567 - INFO - Interest also set sucesfully..
+2025-10-03 07:03:40,567 - INFO - Gnerating itineary for Bamako, Abidjan,  Dakar and for interests : ['Sport', 'Movie', 'Sex']
+2025-10-03 07:03:42,352 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-03 07:03:42,376 - INFO - Itineary generated sucesffully..
